@@ -35,13 +35,13 @@ Global_Sales: Total worldwide sales, quantifying the game's international succes
 # Project Objectives:
 This project is designed to achieve three primary objectives:
 
-# Platform Distribution Analysis: 
+# 1.Platform Distribution Analysis: 
 I will meticulously analyze the distribution of video games across various platforms. By visualizing the distribution patterns, we aim to discern trends in platform preferences and understand the diverse ecosystems that shape the gaming experience.
 
-# Top 10 Video Game Publishers: 
+# 2. Top 10 Video Game Publishers: 
 My exploration extends to identifying the top game publishers based on their contributions to the industry's sales landscape. This analysis sheds light on the powerhouses behind the most successful games and their role in shaping the gaming sphere.
 
-# Global vs. Regional Sales Comparison:
+# 3. Global vs. Regional Sales Comparison:
 By comparing global sales with regional sales figures (North America, Europe, Japan, and the rest of the world), I intend to uncover intriguing insights into the varying degrees of a game's popularity across different regions. This comparison offers a nuanced understanding of regional player behaviors and preferences.
 
 # Tools and Approach:
