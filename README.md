@@ -9,22 +9,34 @@ The world of video games is a dynamic and rapidly evolving industry that captiva
 # Dataset Overview:
 
 Our dataset comprises an array of essential attributes that provide a comprehensive view of each game's impact:
+
 Rank: The ranking of overall sales, showcasing the game's position in the market hierarchy.
+
 Name: The unique name of the game, distinguishing each title in the dataset.
+
 Platform: The platform on which the game was released, offers insight into the diverse gaming landscape.
+
 Year: The year of the game's release, reflecting the historical context of each title.
+
 Genre: The genre of the game, providing a glimpse into player preferences and trends.
+
 Publisher: The entity responsible for bringing the game to the market, shaping its reach and visibility.
+
 NA_Sales: Sales in North America (in millions), illustrating regional player engagement.
+
 EU_Sales: Sales in Europe (in millions), capturing the game's popularity on the continent.
+
 JP_Sales: Sales in Japan (in millions), revealing its performance in a unique and influential market.
+
 Other_Sales: Sales in the rest of the world (in millions), encompassing global outreach.
+
 Global_Sales: Total worldwide sales, quantifying the game's international success.
 
 # Project Objectives:
 This project is designed to achieve three primary objectives:
 
-# Platform Distribution Analysis: I will meticulously analyze the distribution of video games across various platforms. By visualizing the distribution patterns, we aim to discern trends in platform preferences and understand the diverse ecosystems that shape the gaming experience.
+# Platform Distribution Analysis: 
+I will meticulously analyze the distribution of video games across various platforms. By visualizing the distribution patterns, we aim to discern trends in platform preferences and understand the diverse ecosystems that shape the gaming experience.
 
 # Top 10 Video Game Publishers: 
 My exploration extends to identifying the top game publishers based on their contributions to the industry's sales landscape. This analysis sheds light on the powerhouses behind the most successful games and their role in shaping the gaming sphere.
