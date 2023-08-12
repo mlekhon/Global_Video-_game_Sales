@@ -1,4 +1,4 @@
-# Exploring Global Video Game Sales: An In-Depth Analysis of Top Publishers and Platform Distribution
+Exploring Global Video Game Sales: An In-Depth Analysis of Top Publishers and Platform Distribution
 
 # Abstract:
 The aim of this project is to conduct an in-depth analysis of video game data to uncover trends, patterns, and insights that provide a comprehensive understanding of the gaming industry. By utilizing various data analysis techniques, statistical methods, and visualization tools, I will derive into different aspects of video games, including game genres, platform preferences, sales performance, and more. This analysis will provide valuable insights for game developers, publishers, and marketers.
